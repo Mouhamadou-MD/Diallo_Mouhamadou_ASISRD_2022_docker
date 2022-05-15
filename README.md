@@ -60,5 +60,4 @@ docker-compose start
 Arrêter et supprimer les services du fichier
 docker-compose down 
 
-#Auteurs Mouhamadou Diallo
    
